@@ -13,3 +13,6 @@
 [submodule "src/ugv_gazebo_sim"]
 	path = src/ugv_gazebo_sim
 	url = https://github.com/Cionix90/ugv_gazebo_sim.git
+[submodule "src/SoftLeg-Description"]
+	path = src/SoftLeg-Description
+	url = https://github.com/fcannoni/SoftLeg-Description.git
